@@ -5,6 +5,8 @@ var result;
 // 2 azul
 // 3 preto
 
+// fazer com que a variavel result receba a cor que vai ser escolhida no switch,
+
 const cor = 1;
 
 switch (cor) {
