@@ -1,20 +1,13 @@
-var result;
+const n1 = 1;
+const n2 = 2;
+const name1 = 'Meu nome'
+const name2 = 'Meu sobrenome'
+const b1 = true;
+const b2 = false;
 
-// Cores
-// 1 vermelho
-// 2 azul
-// 3 preto
+let result = undefined;
 
-// fazer com que a variavel result receba a cor que vai ser escolhida no switch,
-
-const cor = 1;
-
-switch (cor) {
-    case '':
-        break;
-    default:
-        break;
-}
+result = n1+n2;
 
 console.log(result);
 document.querySelector('.title').textContent = result;
