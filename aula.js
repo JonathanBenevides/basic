@@ -33,5 +33,13 @@ let result = undefined;
 // console.log(deu_match);
 
 
+// NOT
+// const a = true;
+// const b = false
+// result = !b;
+// exercício
+// const origem_nordestina = true
+// console.log(!origem_nordestina);
+
 
 document.querySelector('.title').textContent = result;
