@@ -58,5 +58,15 @@ let result = undefined;
 // result = 20 <= 20
 // result = 20 <= 21
 
+const a = 11
+const b = 11
+
+if (a >= b) {
+    console.log('1')
+} else if (a<= b) {
+    console.log('2')
+} else {
+    console.log('3')
+}
 
 document.querySelector('.title').textContent = result;
