@@ -1,8 +1,10 @@
 let result = undefined;
 
-while (result) {
-    console.log(result)
-}
+// AND Operator - Este operador retorna verdadeiro quando os dois valores de entrada são verdadeiros, caso contrário ele retorna falso
+// const a = true;
+// const b = true
+// result = a && b;
 
-console.log(result);
+
+
 document.querySelector('.title').textContent = result;
