@@ -42,4 +42,21 @@ let result = undefined;
 // console.log(!origem_nordestina);
 
 
+// JavaScript Comparison Operators
+// result = '18' == 18
+// result = '18' === 18
+// result = '18' === 18
+// result = 18 === 18
+// result = 18 !== 20
+// result = 18 !== 18
+// result = 18 > 20
+// result = 18 < 20
+// result = 20 < 18
+// result = 20 > 18
+// result = 20 >= 19
+// result = 20 >= 20
+// result = 20 <= 20
+// result = 20 <= 21
+
+
 document.querySelector('.title').textContent = result;
