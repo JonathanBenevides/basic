@@ -15,6 +15,22 @@ let result = undefined;
 // const a = true;
 // const b = true
 // result = a || b;
+// exercício
+// const felipe_eh_idoso = false
+// const vitor_eh_idoso = false
+// const ha_algum_idoso = felipe_eh_idoso || vitor_eh_idoso
+// console.log(sao_idosos);
+
+
+// XOR
+// const a = false;
+// const b = true
+// result = !!(a ^ b);
+// exercício
+// const sou_homem = true
+// const parceira_eh_homem = true
+// const deu_match = sou_homem && !parceira_eh_homem
+// console.log(deu_match);
 
 
 
